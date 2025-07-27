@@ -33,6 +33,10 @@ I showed all these results using bar charts. I also printed out the best perform
 
 ##Proof of work
 
+<img width="1366" height="686" alt="Image" src="https://github.com/user-attachments/assets/99ed137c-b0c0-4356-aca0-dbd6b88b82e5" />
+<img width="1366" height="688" alt="Image" src="https://github.com/user-attachments/assets/91fe829c-081b-4a8b-acb6-6ba97e0dc571" />
+<img width="1366" height="722" alt="Image" src="https://github.com/user-attachments/assets/5603d1bc-e8bf-4f2a-ab81-66b5799d8752" />
+<img width="1366" height="686" alt="Image" src="https://github.com/user-attachments/assets/54983538-ff3e-4a60-b4e0-c10b873d1f30" />
 
 ## Note
 
