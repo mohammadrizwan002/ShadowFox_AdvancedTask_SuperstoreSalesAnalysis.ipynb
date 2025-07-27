@@ -36,7 +36,9 @@ I showed all these results using bar charts. I also printed out the best perform
 <img width="1366" height="686" alt="Image" src="https://github.com/user-attachments/assets/99ed137c-b0c0-4356-aca0-dbd6b88b82e5" />
 <img width="1366" height="688" alt="Image" src="https://github.com/user-attachments/assets/91fe829c-081b-4a8b-acb6-6ba97e0dc571" />
 <img width="1366" height="722" alt="Image" src="https://github.com/user-attachments/assets/5603d1bc-e8bf-4f2a-ab81-66b5799d8752" />
+<img width="1366" height="684" alt="Image" src="https://github.com/user-attachments/assets/962ff0f2-7349-44d2-8f5a-a0d594f69d1b" />
 <img width="1366" height="686" alt="Image" src="https://github.com/user-attachments/assets/54983538-ff3e-4a60-b4e0-c10b873d1f30" />
+<img width="1366" height="684" alt="Image" src="https://github.com/user-attachments/assets/9a8a7c25-14c9-4770-8a45-ef0c22bc388c" />
 
 ## Note
 
